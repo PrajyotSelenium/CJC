@@ -16,6 +16,10 @@ public class Github {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
          System.out.println("Main method");
+         Github github=new Github();
+                github.m1();
+                github.m2();
+                github.m3();
 	}
 
 }
